@@ -1,0 +1,49 @@
+.container{
+   background-color: #FFFFFF;
+  
+   width:1728px;
+   height: 2358px;
+  
+}
+.head {
+    width: 1643px;
+    height: 648.57px;
+    margin-left: 25px;
+    left: 38px;
+    top: 47px;
+    border: 2px solid #000000;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48.41px;
+}
+    
+h1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font: size 64px;
+    line-height:77px;
+    text-decoration:underline ;
+    color: #000000;
+}
+a{
+    color: #000000;
+}
+.image {
+   margin-left: 25px;
+}
+img {
+    
+    width: 1051px;
+    height: 762px;
+    left: 58px;
+    top: 874px;
+}
+.more {
+    position: absolute;
+    width:245px;
+    height:48px;
+    left: 58px;
+    top:1670px;
+}
